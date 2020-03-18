@@ -1,4 +1,4 @@
-resource "null_resource" "laziz" {
+resource "null_resource" "hafid" {
     triggers = {
         always_run = "${timestamp()}"
     }

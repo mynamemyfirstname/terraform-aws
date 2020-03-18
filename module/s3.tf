@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "b" {
-  bucket = "my-tf-test-bucket-laziz"
+  bucket = "terraform-aws-hafid-ha"
 
   tags = {
     Name        = "My bucket"

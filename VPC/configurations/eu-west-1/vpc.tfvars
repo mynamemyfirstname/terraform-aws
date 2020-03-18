@@ -5,7 +5,7 @@ region                          =   "eu-west-1"
 
 
 
-s3_bucket                       =	"terraform-class-laziz"
+s3_bucket                       =	"terraform-aws-hafid-ha"
 s3_folder_region                =	"us-east-1"
 
 # This is used for VPC CIDR BLOCK
